@@ -694,7 +694,7 @@ transformers:
         - "tag_name"
 ```
 
-`tags_to_term` can be configured in below different way
+The `tags_to_term` transformer can be configured in the following ways:
 
 - Add domains based on tags, however overwrite the domains available for the dataset on DataHub GMS
 ```yaml
